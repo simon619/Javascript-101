@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="pyscript practices"> <!-- Describes to search engine about the page -->
+    <meta name="author" content="Simon Abhijet Biswas">
+    <meta name="viewpoint" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="pyscript, python, html"> <!--main keywords-->
+    <meta http-equiv="X-UA-Compatible" content="IE-edge"> <!-- Related to MS Internet Explorer version -->
+
+    <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" /> <!-- Get css fill from the path inside href -->
+    <script defer src="https://pyscript.net/alpha/pyscript.js"></script> <!-- Load JS file from the path inside src. defer, do css jobs before loading script -->
+    <title>Pyscript 1</title>
+</head>
+<body>
+</body>
+</html>
